@@ -1,0 +1,14 @@
+div {
+    width: 310px;
+    height: 130px;
+    background-color: white;
+    transition: background-color 0.3s ease; 
+  }
+  
+  
+  div:hover {
+    background-color: lightskyblue; 
+  }
+
+
+

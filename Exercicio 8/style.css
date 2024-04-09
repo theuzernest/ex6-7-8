@@ -1,0 +1,53 @@
+#fieldset-1{
+   display: inline;
+}
+
+#img1 {
+width: 100px; 
+height: 100px;
+}
+
+#fieldset-1 button {
+    background-color: gray; 
+    color: white; 
+    border: none; 
+    padding: 10px 20px; 
+    cursor: pointer; 
+    box-sizing: border-box; 
+}
+
+#fieldset-2{
+    display: inline;
+ }
+ 
+ #fieldset-2 img {
+ width: 100px; 
+ height: 100px;
+ }
+ 
+ #fieldset-2 button {
+     background-color: gray; 
+     color: white; 
+     border: none; 
+     padding: 10px 20px; 
+     cursor: pointer; 
+     box-sizing: border-box; 
+ }
+
+ #fieldset-3{
+    display: inline;
+ }
+ 
+ #fieldset-3 img {
+ width: 100px; 
+ height: 100px;
+ }
+ 
+ #fieldset-3 button {
+     background-color: gray; 
+     color: white; 
+     border: none; 
+     padding: 10px 20px; 
+     cursor: pointer; 
+     box-sizing: border-box; 
+ }
